@@ -2,7 +2,7 @@
 
 Este repositório foi desenvolvido durante o Bootcamp **AWS Code Girls**, uma parceria entre **Santander** e **DIO**. O desafio tem como objetivo aplicar os conceitos aprendidos sobre os serviços da **AWS** para criar e hospedar um site estático utilizando o **Amazon S3**. Além disso, foi realizado um trabalho de personalização do site utilizando **HTML** e **JavaScript**, de modo a mostrar as habilidades adquiridas.
 
-### 👩‍💻 Acesse o projeto hospedado: [Clique aqui :) ](https://kellitissot.github.io/website-formacao-aws/)
+### 👩‍💻 Acesse o site: [Clique aqui :) ](https://kellitissot.github.io/website-formacao-aws/)
 
 ### 🚀 Sobre o Desafio
 O desafio foi realizado com o intuito de entender a arquitetura de **sites estáticos** na **AWS** e como os buckets do S3 podem ser utilizados para hospedagem de conteúdo web. Durante a execução do desafio, foi necessário realizar as seguintes etapas:
